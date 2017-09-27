@@ -27,7 +27,7 @@
 
 运行系统
 ---------------------
-* windows（需要把utils.py文件中的print函数加一个括号）
+* windows
 * linux 
 
 
