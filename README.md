@@ -20,4 +20,14 @@
 >>`resultCSV` (第一步和第二部得到的数据统计[distinguish_step1.csv,result_step2.csv])<br>
 >>`cutCSV` (example3得到的两个文件[group.csv,red.csv])<br>
 
+依赖
+---------------------
+* python环境
+
+所需要的包
+---------------------
+* numpy<br>
+* pandas<br>
+* matplotlib<br>
+* scipy<br>
 
