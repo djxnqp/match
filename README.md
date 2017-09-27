@@ -34,8 +34,6 @@
 所需要的包
 ---------------------
 * numpy<br>
-* pandas<br>
 * matplotlib<br>
-* scipy<br>
 * csv<br>
 
